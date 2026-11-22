@@ -1,0 +1,12 @@
+field,description,status_or_generation
+flight,Seed-generated flight identifier used as an instance label,generated with seed 7
+airline,Modeled operator category,sampled from fixed operator weights
+aircraft,Aircraft-type category,sampled from operator-specific fleet distribution
+capacity,Modeled seat capacity,fixed fleet lookup
+wake,Wake category,fixed fleet lookup
+engine,Jet/propeller class,fixed fleet lookup
+sid,Modeled SID-group label,generated from four categories
+sched_min_from_1800,Scheduled departure minute relative to 18:00,sampled without replacement from 1..179
+cfm_idr_per_min,Airline delay-cost rate per minute,fixed fleet lookup
+reposition_idr,Repositioning/cancellation cost assumption,fixed fleet lookup
+fare_idr,Modeled fare,"random draw from service-band interval, rounded"
