@@ -1,0 +1,27 @@
+Key,Status,Change made / verification note,Verified DOI or authoritative URL
+balakrishnan2010,VERIFIED,Metadata/DOI already correct,10.1287/opre.1100.0869
+bandyopadhyay2008,CORRECTED,Added DOI,10.1109/TEVC.2007.900837
+beltman2025,CORRECTED,Corrected given names: Maarten Beltman; Jasper de Wilde,10.1016/j.jairtraman.2025.102788
+bloem2012,VERIFIED,Metadata/DOI already correct,10.1109/CDC.2012.6426333
+cadarso2023,CORRECTED,Added DOI; pagination verified as 813--837,10.1287/trsc.2022.1174
+cerny1985,CORRECTED,Added DOI; corrected title spelling to 'traveling'; Černý diacritic retained,10.1007/BF00940812
+chen2025vns,VERIFIED,Metadata/DOI already correct,10.1016/j.jairtraman.2025.102807
+deng2025,VERIFIED,Metadata/DOI already correct,10.1109/TCE.2025.3615937
+donmez2026,VERIFIED,Volume/issue/pages/DOI verified,10.1017/aer.2026.10146
+easa2025wake,CORRECTED,Changed URL to direct ATS.TR.220 section and clarified source title/status,authoritative EASA ATM/ANS page
+eshkevari2024,CORRECTED,Corrected first-author name to Mohammadreza Lahooti Eshkevari; added DOI,10.1080/0305215X.2023.2284836
+eurocontrol2024inputs,CORRECTED,Confirmed Edition 10 publication date; retained official URL,official EUROCONTROL page
+evler2021,CORRECTED,Added DOI,10.1016/j.trc.2021.103129
+goh2019reheat,VERIFIED,Metadata/DOI already correct,10.1080/01605682.2018.1468862
+jiang2023vns,VERIFIED,Metadata/DOI already correct,10.1080/21680566.2022.2127429
+kirkpatrick1983,CORRECTED,Added DOI,10.1126/science.220.4598.671
+lieder2016,VERIFIED,Metadata/DOI already correct,10.1016/j.tre.2016.01.015
+martin2025cp,VERIFIED,"Volume 76(12), pages 2494--2506, DOI verified",10.1080/01605682.2025.2478257
+ng2020lns,VERIFIED,Conference pages/DOI verified,10.1109/IEEM45057.2020.9309768
+pm89,CORRECTED,Replaced generic JDIH homepage with exact regulation record URL,official Indonesian Ministry of Transportation record
+ribeiro2025delay,VERIFIED,Volume/article number/DOI verified,10.1016/j.trc.2024.104947
+su2023runway,VERIFIED,Volume/issue/article/DOI verified,10.3390/aerospace10020177
+suman2006,CORRECTED,Added DOI,10.1057/palgrave.jors.2602068
+trojovska2022,VERIFIED,Metadata/DOI already correct,10.1109/ACCESS.2022.3172789
+wu2024review,VERIFIED,2025 volume 175/article 106915 with 2024 DOI verified,10.1016/j.cor.2024.106915
+yu2021ansa,VERIFIED,Authors/volume/article/DOI verified,10.1016/j.cor.2020.105205
