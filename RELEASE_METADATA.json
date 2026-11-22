@@ -1,0 +1,13 @@
+{
+  "release": "v1.0.0",
+  "release_status": "public",
+  "scientific_case": "fixed semi-synthetic 48-flight CGK-inspired bank",
+  "instance_seed": 7,
+  "primary_eval_budget": 5000,
+  "primary_seeds": "2000-2019",
+  "benchmark_eval_budget": 10000,
+  "benchmark_seeds": "3000-3019",
+  "reopening": "21:00",
+  "baseline_recovery_cutoff": "22:20",
+  "manuscript": "DAJOUR-D-26-00518"
+}
